@@ -1,8 +1,28 @@
 aid: funding-societies
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/funding-societies.png
 name: Funding Societies
-description: 'Funding Societies is a company surfaced as a portfolio company of softbank-vision-fund and
-  added to the API Evangelist network as a stub for enrichment. Sector: fintech. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: 'Funding Societies (known as Modalku in Indonesia) is Southeast Asia''s
+  largest unified SME digital finance platform, founded in 2015 and operating across
+  Singapore, Indonesia, Malaysia, Thailand and Vietnam. It provides small and medium-sized
+  enterprises with business financing — term loans, micro loans, revolving credit
+  lines, invoice and trade financing — and offers retail and institutional investors
+  the ability to fund those loans for a return. The group is licensed and regulated
+  in its markets and is backed by investors including SoftBank Vision Fund, Sequoia,
+  and SoftBank Ventures Asia. Funding Societies does not currently publish a public
+  developer API or SDK program; this API Evangelist profile captures the company''s
+  public web properties and security posture. It will be upgraded if and when a public
+  API surface is published.'
 url: https://raw.githubusercontent.com/api-evangelist/funding-societies/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,13 +32,42 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
 - Fintech
+- Lending
+- SME Financing
+- Investment
+- Peer-to-Peer Lending
+- Southeast Asia
 apis: []
+common:
+- type: Website
+  url: https://fundingsocieties.com
+- type: SignUp
+  url: https://fundingsocieties.com/sign-up
+- type: Support
+  url: https://help.fundingsocieties.com/en
+- type: HelpCenter
+  url: https://help.fundingsocieties.com/en
+- type: Blog
+  url: https://blog.fundingsocieties.com
+- type: TermsOfService
+  url: https://fundingsocieties.com/terms-of-use
+- type: PrivacyPolicy
+  url: https://fundingsocieties.com/privacy-notice
+- type: LLMsTxt
+  url: llms/funding-societies-llms.txt
+- type: DomainSecurity
+  url: security/funding-societies-domain-security.yml
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

@@ -1,0 +1,24 @@
+# Funding Societies
+
+> Funding Societies (known as Modalku in Indonesia) is Southeast Asia's largest unified SME digital finance platform, founded in 2015 and operating across Singapore, Indonesia, Malaysia, Thailand and Vietnam. It provides SMEs with business financing (term loans, micro loans, revolving credit lines, invoice and trade financing) and lets retail and institutional investors fund those loans. As of this profile, Funding Societies does not publish a public developer API, SDK, or MCP server.
+
+## Company
+- [Website](https://fundingsocieties.com): Main company site.
+- [About Us](https://fundingsocieties.com/about-us): Company overview.
+- [Blog](https://blog.fundingsocieties.com): Company and industry blog.
+
+## Products
+- [SME Loans](https://fundingsocieties.com/sme-loans): Business financing for small and medium-sized enterprises.
+- [Investment](https://fundingsocieties.com/investment): Investor product to fund SME loans for a return.
+
+## Support
+- [Help Center](https://help.fundingsocieties.com/en): Advice and answers for investors and borrowers.
+- [Sign Up](https://fundingsocieties.com/sign-up): Create an account.
+
+## Legal
+- [Terms of Use](https://fundingsocieties.com/terms-of-use): Terms of use.
+- [Privacy Notice](https://fundingsocieties.com/privacy-notice): Privacy notice.
+- [Risk Disclosure](https://fundingsocieties.com/risk-disclosure): Investment risk disclosure.
+
+## Developer
+- No public API, SDK, or developer program is currently published by Funding Societies.
